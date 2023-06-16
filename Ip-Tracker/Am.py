@@ -34,6 +34,7 @@ options:
 -v --version shows the current version
 -t --target  the target host
 -h --help    shows the help usage
+Exmpel : python Am.py -t 101.188.67.134 
 """
 
 OPTIONS = "hvt:"
