@@ -1,0 +1,1 @@
+Exampel : python Am.py -t 101.188.67.134
