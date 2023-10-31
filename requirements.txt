@@ -7,10 +7,5 @@ sys
 time
 bs64
 colorama 
-aiohttp
-asyncio
-multiprocess
-subprocess
 threading
-subprocess.run
 
