@@ -3,14 +3,14 @@ chardet>=3.0.4
 idna>=2.10
 requests>=2.24.0
 pystyle==2.9
-multiprocess
-subprocess.run
 sys
 time
 bs64
-colorama
-threading 
+colorama 
 aiohttp
 asyncio
+multiprocess
 subprocess
+threading
+subprocess.run
 
